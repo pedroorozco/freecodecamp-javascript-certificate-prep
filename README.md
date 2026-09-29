@@ -1,64 +1,47 @@
-## 📁 Repository Structure
-
 <details>
-<summary><strong>📂 boolean-and-numbers</strong></summary>
-
-<br>
-
-<details>
-<summary>🧪 labs</summary>
-
-- Add lab projects here
-
+  <summary><b>boolean-and-numbers</b></summary>
+  <ul>
+    <li>
+      <details>
+        <summary>labs</summary>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>workshops</summary>
+      </details>
+    </li>
+  </ul>
 </details>
 
 <details>
-<summary>🛠️ workshops</summary>
-
-- Add workshop projects here
-
-</details>
-
-</details>
-
-<details>
-<summary><strong>📂 objects</strong></summary>
-
-<br>
-
-<details>
-<summary>🧪 labs</summary>
-
-- Add lab projects here
-
+  <summary><b>objects</b></summary>
+  <ul>
+    <li>
+      <details>
+        <summary>labs</summary>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>workshops</summary>
+      </details>
+    </li>
+  </ul>
 </details>
 
 <details>
-<summary>🛠️ workshops</summary>
-
-- Add workshop projects here
-
-</details>
-
-</details>
-
-<details>
-<summary><strong>📂 variables-and-strings</strong></summary>
-
-<br>
-
-<details>
-<summary>🧪 labs</summary>
-
-- Add lab projects here
-
-</details>
-
-<details>
-<summary>🛠️ workshops</summary>
-
-- Add workshop projects here
-
-</details>
-
+  <summary><b>variables-and-strings</b></summary>
+  <ul>
+    <li>
+      <details>
+        <summary>labs</summary>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary>workshops</summary>
+      </details>
+    </li>
+  </ul>
 </details>
